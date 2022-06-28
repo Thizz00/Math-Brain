@@ -8,6 +8,8 @@ pip install PyQt5
 pip install sympy
 ```
 
+# eval() Function
+
 ```python
 expression = "A String, that will be evaluated as Python code"
 globals = "Optional. A dictionary containing global parameters"
