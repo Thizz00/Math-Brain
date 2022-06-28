@@ -3,8 +3,8 @@
 
 
 ```
-pip install PyQt5
-pip install sympy
+`pip install PyQt5`
+`pip install sympy`
 ```
 
 # eval() Function
