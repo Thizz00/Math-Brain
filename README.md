@@ -8,7 +8,7 @@
 `pip install sympy`
 
 
-# eval() Function
+## eval() Function
 
 ```python
 expression = "A String, that will be evaluated as Python code"
@@ -17,7 +17,7 @@ locals = "Optional. A dictionary containing local parameters"
 eval(expression, globals, locals)
 ```
 
-# Winsound 
+## Winsound 
 
 ```python
  import winsound
