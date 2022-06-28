@@ -1,6 +1,5 @@
 # Integral-and-derivative-calculator
 
-![alt text](screen.png)
 
 
 ```
@@ -17,6 +16,12 @@ locals = "Optional. A dictionary containing local parameters"
 eval(expression, globals, locals)
 ```
 
+# winsound 
+
+```python
+ import winsound
+ winsound.PlaySound(r'file.wav', winsound.SND_ASYNC)
+```
 \
 \
 ![alt text](screen1.png)
