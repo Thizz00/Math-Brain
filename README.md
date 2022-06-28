@@ -16,7 +16,7 @@ locals = "Optional. A dictionary containing local parameters"
 eval(expression, globals, locals)
 ```
 
-# winsound 
+# Winsound 
 
 ```python
  import winsound
